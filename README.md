@@ -4,10 +4,12 @@ I'm a full-stack web developer with a passion for building scalable web applicat
 
 ## Skills and Technologies
 
-![](https://img.shields.io/badge/Code-JavaScript-yellow)
-![](https://img.shields.io/badge/Framework-React-blue)
-![](https://img.shields.io/badge/Backend-Node.js-green)
-![](https://img.shields.io/badge/Database-MongoDB-lightgrey)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![React](https://img.shields.io/badge/Framework-React-blue)
+![Express](https://img.shields.io/badge/Backend-Node.js-green)
+![MongoDb](https://img.shields.io/badge/Database-MongoDB-lightgrey)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 
 - **Frontend:** HTML, CSS, JavaScript, Tailwind, Bootstrap React
 - **Backend:** Node.js, Express
