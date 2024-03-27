@@ -1,8 +1,8 @@
 # Hi, I'm Harsh Singh 👋
 
-I'm a full-stack web developer with a passion for building scalable web applications and engaging user experiences. With a background in both front-end and back-end technologies, I thrive on challenges and love to push the boundaries of what's possible on the web.
-
+I'm a full-stack web developer with a passion for building scalable web applications and engaging user experiences. With a background in both front-end and back-end technologies. Let's code for a brighter tomorrow!
 ## Skills and Technologies
+![](https://komarev.com/ghpvc/?username=Harshparihar2003&color=green)
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![React](https://img.shields.io/badge/Framework-React-blue)
