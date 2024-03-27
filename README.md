@@ -1,8 +1,15 @@
 # Hi, I'm Harsh Singh 👋
 
 I'm a full-stack web developer with a passion for building scalable web applications and engaging user experiences. With a background in both front-end and back-end technologies. Let's code for a brighter tomorrow!
-## Skills and Technologies
 ![](https://komarev.com/ghpvc/?username=Harshparihar2003&color=green)
+
+How to reach me.
+
+- 📧 Email: pariharharsh337@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-singh-221451239/)
+
+## Skills and Technologies
+
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![React](https://img.shields.io/badge/Framework-React-blue)
@@ -18,11 +25,10 @@ I'm a full-stack web developer with a passion for building scalable web applicat
 
 ## Contact Me
 
-Feel free to reach out for collaborations or just a chat.
+How to reach me.
 
 - 📧 Email: pariharharsh337@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/harsh-singh-221451239/)
-- 🐦 [Twitter](#)
 <!--
 **Harshparihar2003/Harshparihar2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
