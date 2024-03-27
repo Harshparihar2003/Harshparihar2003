@@ -1,11 +1,12 @@
 # Hi, I'm Harsh Singh 👋
 
 I'm a full-stack web developer with a passion for building scalable web applications and engaging user experiences. With a background in both front-end and back-end technologies. Let's code for a brighter tomorrow!
+
 ![](https://komarev.com/ghpvc/?username=Harshparihar2003&color=green)
 
 How to reach me.
 
-- 📧 Email: pariharharsh337@gmail.com
+- 📧 : pariharharsh337@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/harsh-singh-221451239/)
 
 ## Skills and Technologies
